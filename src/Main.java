@@ -3,5 +3,6 @@ public class Main {
         String hi = "Привет ".concat("мир!");
 
         System.out.println(hi);
+        System.out.println(hi);
     }
 }
